@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_do_disturb_24"
+        android:id="@+id/mapNone"
+        android:title="@string/none"/>
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_filter_none_24"
+        android:id="@+id/mapNormal"
+        android:title="@string/normal"/>
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_emergency_recording_24"
+        android:id="@+id/mapSattelite"
+        android:title="@string/sattelite"/>
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_join_full_24"
+        android:id="@+id/mapHybrid"
+        android:title="@string/hybrid"/>
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_landscape_24"
+        android:id="@+id/mapTerrain"
+        android:title="Terrain"/>
+</menu>

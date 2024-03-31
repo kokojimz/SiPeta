@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SiPeta</string>
+    <string name="none">None</string>
+    <string name="normal">Normal</string>
+    <string name="sattelite">Sattelite</string>
+    <string name="hybrid">Hybrid</string>
 </resources>
