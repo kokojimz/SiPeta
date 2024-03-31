@@ -26,5 +26,5 @@
         android:layout_height="wrap_content"
         android:icon="@drawable/baseline_landscape_24"
         android:id="@+id/mapTerrain"
-        android:title="Terrain"/>
+        android:title="@string/terrain"/>
 </menu>
