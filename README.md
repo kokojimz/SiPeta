@@ -28,7 +28,11 @@ Sipeta is an Android application designed to assist users in navigating and expl
 
 
 
-https://github.com/kokojimz/SiPeta/assets/93468154/9b5b5883-96c7-4eb6-8f59-9f2b0f014b71
+
+https://github.com/kokojimz/SiPeta/assets/93468154/795f0f3b-1103-4dc2-8d85-660ddcea0b25
+
+
+
 
 ## Developed by
 ```
