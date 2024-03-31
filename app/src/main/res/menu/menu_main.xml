@@ -3,14 +3,7 @@
     <item
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:icon="@drawable/baseline_do_disturb_24"
-        android:id="@+id/mapNone"
-        android:title="@string/none"/>
-
-    <item
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:icon="@drawable/baseline_filter_none_24"
+        android:icon="@drawable/baseline_map_24"
         android:id="@+id/mapNormal"
         android:title="@string/normal"/>
 

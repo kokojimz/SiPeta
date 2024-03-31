@@ -85,9 +85,6 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         // Menangani event ketika menu dipilih di BottomNavigationView
         bottomNavigationView.setOnNavigationItemSelectedListener(item -> {
             int id = item.getItemId();
-            if (id == R.id.mapNone) {
-                myMap.setMapType(GoogleMap.MAP_TYPE_NONE);
-            }
             if (id == R.id.mapNormal) {
                 myMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
             }
